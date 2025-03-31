@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 ¡Hola, soy David Cevallos!
 
-<!--
-**DavidCevallos15/DavidCevallos15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Tecnologías de la Información (7mo semestre)
+💻 Apasionado por el desarrollo web y las aplicaciones web
+🚀 Autodidacta y en constante aprendizaje (actualmente en Platzi)
+🎯 Mi meta: Crear mi propia empresa de desarrollo web
 
-Here are some ideas to get you started:
+🔧 Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: HTML, CSS, JavaScript
+
+Backend: Django, Python, MySQL
+
+Otros: Git, GitHub, jQuery, Packet Tracer
+
+📚 En constante aprendizaje
+Siempre estoy explorando nuevas tecnologías y mejorando mis habilidades. Me gusta compartir lo que aprendo y construir proyectos prácticos.
+
+📫 ¡Hablemos!
+Si quieres colaborar en un proyecto o simplemente conversar sobre tecnología, puedes encontrarme en:
+
+✉️ jimdav1506ceva@gmail.com, https://www.facebook.com/jimceva2000 
+
+💼 https://www.linkedin.com/in/jimmy-david-cevallos-zambrano-859876191/
