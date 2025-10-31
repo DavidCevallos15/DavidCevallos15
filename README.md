@@ -19,6 +19,6 @@ Siempre estoy explorando nuevas tecnologías y mejorando mis habilidades. Me gus
 📫 ¡Hablemos!
 Si quieres colaborar en un proyecto o simplemente conversar sobre tecnología, puedes encontrarme en:
 
-✉️ jimdav1506ceva@gmail.com, https://www.facebook.com/jimceva2000 
+✉️ jimdav1506ceva@gmail.com
 
 💼 https://www.linkedin.com/in/jimmy-david-cevallos-zambrano-859876191/
