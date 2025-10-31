@@ -1,6 +1,6 @@
 👋 ¡Hola, soy David Cevallos!
 
-🎓 Estudiante de Tecnologías de la Información (7mo semestre)
+🎓 Estudiante de Tecnologías de la Información (8vo semestre)
 💻 Apasionado por el desarrollo web y las aplicaciones web
 🚀 Autodidacta y en constante aprendizaje (actualmente en Platzi)
 🎯 Mi meta: Crear mi propia empresa de desarrollo web
