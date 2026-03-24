@@ -31,13 +31,6 @@ Soy un apasionado del **Desarrollo Web** y las aplicaciones escalables. Actualme
   <img src="https://streak-stats.demolab.com?user=DavidCevallos15&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidCevallos15/DavidCevallos15/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DavidCevallos15/DavidCevallos15/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DavidCevallos15/DavidCevallos15/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-</p>
 
 ---
 
