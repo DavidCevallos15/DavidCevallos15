@@ -39,12 +39,6 @@ Otros: Git, GitHub, jQuery, Packet Tracer
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidCevallos15)](https://github.com/DavidCevallos15)
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/DavidCevallos15/DavidCevallos15/output/snake.svg" alt="Snake animation" />
 
 ###
