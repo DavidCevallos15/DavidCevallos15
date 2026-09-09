@@ -1,45 +1,124 @@
-# 👋 ¡Hola, soy David Cevallos!
+<a href="https://davidcevallos.vercel.app">
+  <img src="./assets/header.svg" width="100%" alt="David Cevallos — Full-Stack Developer. Software que conecta con las personas. Ecuador." />
+</a>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Estado-9no_Semestre_TI-blue?style=flat-square" alt="Semestre">
-  <img src="https://img.shields.io/badge/En_Aprendizaje-Platzi-green?style=flat-square" alt="Platzi">
-  <img src="https://img.shields.io/badge/Meta-Emprendimiento_Web-orange?style=flat-square" alt="Meta">
-</p>
-
----
-
-### 👨‍💻 Sobre mí
-Soy un apasionado del **Desarrollo Web** y las aplicaciones escalables. Actualmente curso el 9no semestre de **Ingeniería en Tecnologías de la Información**, enfocándome en perfeccionar mi stack tecnológico y preparándome para lanzar mi propia empresa de software.
-
-- 🚀 **En qué trabajo:** Proyectos con React y Django.
-- 🎓 **Educación:** Universidad Técnica de Manabí + Platzi.
-- 🎯 **Objetivo:** Crear soluciones tecnológicas que impacten positivamente en los usuarios.
-
-### 🛠️ Tecnologías y Herramientas
-
-| Categoría | Herramientas |
-| :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Otros** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Packet Tracer](https://img.shields.io/badge/-Cisco-00BCEB?style=flat-square&logo=cisco&logoColor=white) |
-
----
-
-### 📊 Mis Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidCevallos15&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats de David" width="48%">
-  <img src="https://streak-stats.demolab.com?user=DavidCevallos15&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
+  <a href="https://davidcevallos.vercel.app"><strong>Portafolio ↗</strong></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/jimmy-david-cevallos-zambrano-859876191">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="https://youtube.com/@JimmyCevaZam">YouTube</a> &nbsp; / &nbsp;
+  <a href="https://github.com/DavidCevallos15?tab=repositories">Repositorios</a>
 </p>
 
+## Desarrollo web con los pies en el mundo real.
+
+Soy **David Cevallos**, desarrollador full-stack en Ecuador. Construyo sitios y sistemas web para profesionales, instituciones de salud y estudiantes: desde la interfaz que ve una persona hasta la API y el panel que utiliza su equipo.
+
+Mi primer proyecto fue una web para el **Lic. Jimmy Cevallos**, enfermero a domicilio en Portoviejo. Hoy, ese recorrido incluye un sistema institucional para un hospital y **Restore Chiropractic**, mi proyecto más reciente para un cliente en Estados Unidos.
+
+**Mi enfoque:** interfaces claras · arquitectura mantenible · seguridad desde el diseño.
+
+- **Formación:** Ingeniería en Tecnologías de la Información en la Universidad Técnica de Manabí.
+- **Trabajo:** desarrollo full-stack freelance, despliegue, soporte y mantenimiento.
+- **Exploración:** IA generativa aplicada al desarrollo, con revisión y validación de los resultados.
+- **Comparto:** arquitectura, desarrollo web, DevSecOps e IA aplicada en YouTube.
+
+## 01 / Proyecto más reciente
+
+### Restore Chiropractic
+
+**Charlotte, Estados Unidos · Cliente internacional · Web publicada**
+
+<a href="https://www.restorechiropracticcare.com/">
+  <img src="./assets/restore.png" width="100%" alt="Captura real de Restore Chiropractic: página de inicio y acceso a citas." />
+</a>
+
+Una presencia digital para un consultorio quiropráctico, pensada para que sus pacientes puedan **conocer los servicios, elegir su idioma y acceder a la solicitud de una cita**.
+
+| Lo que resuelve | Cómo está planteado |
+| :--- | :--- |
+| Explicar la atención del consultorio | Páginas de servicios, presentación del profesional y preguntas frecuentes. |
+| Atender a públicos distintos | Navegación y contenido en **inglés y español**. |
+| Facilitar el siguiente paso | Accesos al sistema externo de citas y a los datos de contacto. |
+| Mantener una presencia profesional | Diseño adaptable, metadatos y datos estructurados del negocio. |
+
+`Next.js` `React` `Tailwind CSS` `i18n` `SEO técnico`
+
+**[Visitar Restore Chiropractic ↗](https://www.restorechiropracticcare.com/)**
+
+## 02 / Donde empezó todo
+
+### Lic. Jimmy Cevallos · Enfermería a domicilio
+
+**Portoviejo, Ecuador · Mi primer proyecto web**
+
+<a href="https://enfermero-jimmy-cevallos.vercel.app/">
+  <img src="./assets/jimmy.png" width="100%" alt="Captura real de la web del Lic. Jimmy Cevallos: servicios de enfermería a domicilio en Portoviejo y contacto por WhatsApp." />
+</a>
+
+Un sitio para presentar servicios de enfermería a domicilio y facilitar el contacto por WhatsApp. El punto de partida de mi trabajo para profesionales de la salud: **organizar la información, transmitir confianza y hacer sencillo pedir atención**.
+
+`JavaScript` `Bootstrap` `Vite` `Vercel`
+
+**[Visitar el sitio ↗](https://enfermero-jimmy-cevallos.vercel.app/)** · [Explorar el código](https://github.com/DavidCevallos15/enfermero-jimmy-cevallos)
+
+## 03 / Más allá de una landing
+
+### HPVC · Sistema web institucional
+
+Proyecto de titulación para el **Hospital Provincial General Dr. Verdi Cevallos Balda**: portal institucional, panel administrativo/CMS y API REST en una arquitectura desacoplada, desplegada en infraestructura del hospital.
+
+`React` `Node.js` `Express` `PostgreSQL` `Prisma` `Docker` `Nginx`
+
+<details>
+<summary><strong>Ver decisiones de arquitectura y seguridad</strong></summary>
+
+- **Separación de responsabilidades:** portal público, administración y API en un monorepo.
+- **Autenticación y permisos:** JWT en cookies `HttpOnly` y control de acceso por roles.
+- **Validación y protección:** esquemas con Zod y cabeceras HTTP mediante Helmet.
+- **Entrega:** contenedores Docker y Nginx en la infraestructura institucional.
+- **Evaluación:** verificación documental de 12 casos de uso críticos y trazabilidad de requisitos.
+
+</details>
+
+[Sitio institucional ↗](https://hpvc.gob.ec) · [Caso de estudio en mi portafolio](https://davidcevallos.vercel.app)
+
+### Inforario · Herramientas para estudiantes de la UTM
+
+Un proyecto que parte de una necesidad cercana: **organizar los horarios universitarios**. Incluye una aplicación web y una extensión de navegador que transforma PDFs del SGU en horarios interactivos e integra Google Calendar.
+
+`React` `TypeScript` `Supabase` `Vite` `Manifest V3`
+
+[Código de la app ↗](https://github.com/DavidCevallos15/Inforario-v2.0) · [Extensión de navegador](https://github.com/DavidCevallos15/inforario-extension)
+
+## 04 / Herramientas con propósito
+
+<img src="./assets/stack.svg" width="100%" alt="Stack principal: React, Next.js y TypeScript; Node.js, Express y Django; PostgreSQL, Prisma y Supabase; Docker, Nginx, Linux y Git." />
+
+| Área | En qué las aplico |
+| :--- | :--- |
+| **Frontend** | Interfaces adaptables y componentes reutilizables con React, Next.js, TypeScript y Tailwind CSS. |
+| **Backend y datos** | APIs, autenticación y modelado de datos con Node.js, Express, Python, Django, PostgreSQL, Prisma y Supabase. |
+| **Entrega y seguridad** | Docker, Nginx, Git, Linux, validación de entradas y permisos por rol. |
+| **Entorno personal** | Fedora Workstation, ThinkPad, Cursor, Windsurf y APIs de IA. |
+
+## 05 / Lo que estoy construyendo
+
+<a href="https://github.com/DavidCevallos15?tab=repositories">
+  <img src="./assets/activity.svg" width="100%" alt="Repositorios propios públicos, estrellas recibidas, seguidores y repositorios con pushes en los últimos 90 días. La tarjeta incluye su fecha de actualización." />
+</a>
+
+<a href="https://github.com/DavidCevallos15?tab=repositories">
+  <img src="./assets/languages.svg" width="100%" alt="Distribución por lenguaje principal de los repositorios públicos propios. No representa dominio técnico ni porcentaje de líneas de código." />
+</a>
+
+<sub>Datos públicos de GitHub · Se excluyen forks · Las tarjetas muestran su fecha de actualización.</sub>
 
 ---
 
-### 📫 ¡Hablemos!
-<p align="left">
-  <a href="https://www.linkedin.com/in/jimmy-david-cevallos-zambrano-859876191/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:jimdav1506ceva@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+### ¿Tienes un proyecto que necesita pasar de idea a web?
+
+Me interesa construir productos que las personas puedan entender, usar y mantener.
+
+**[Conversemos en LinkedIn ↗](https://www.linkedin.com/in/jimmy-david-cevallos-zambrano-859876191)** · [Conoce mi trabajo](https://davidcevallos.vercel.app) · [Mira lo que comparto](https://youtube.com/@JimmyCevaZam)
+
+<img src="./assets/footer.svg" width="100%" alt="Diseñado, desarrollado y mantenido. David Cevallos · Ecuador." />

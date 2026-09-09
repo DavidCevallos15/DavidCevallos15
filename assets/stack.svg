@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 212" role="img">
+  <title>Stack de David Cevallos: interfaz, lógica, datos y despliegue</title>
+  <rect x="1" y="1" width="958" height="210" rx="18" fill="#0d1722" stroke="#273847"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <path d="M60 50H900" stroke="#2c4a45" stroke-width="2"/>
+    <g fill="#73e2c4"><circle cx="60" cy="50" r="6"/><circle cx="292" cy="50" r="6"/><circle cx="524" cy="50" r="6"/><circle cx="756" cy="50" r="6"/></g>
+    <g fill="#73e2c4" font-size="12" letter-spacing="2"><text x="32" y="89">01 / INTERFAZ</text><text x="264" y="89">02 / LÓGICA</text><text x="496" y="89">03 / DATOS</text><text x="728" y="89">04 / ENTREGA</text></g>
+    <g fill="#e9f1f5" font-size="23" font-weight="600"><text x="32" y="128">React · Next.js</text><text x="264" y="128">Node.js</text><text x="496" y="128">PostgreSQL</text><text x="728" y="128">Docker</text></g>
+    <g fill="#a9bac7" font-size="15"><text x="32" y="159">TypeScript · Tailwind</text><text x="264" y="159">Express · Django</text><text x="496" y="159">Prisma · Supabase</text><text x="728" y="159">Nginx · Linux · Git</text></g>
+    <text x="32" y="190" fill="#728999" font-size="12">Una misma idea, de principio a producción.</text>
+  </g>
+</svg>
